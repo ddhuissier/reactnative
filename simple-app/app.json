@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "explore-components",
+    "slug": "explore-components",
+    "version": "1.0.0",
+    "icon": "./src/assets/icons8-shop-local-50.png",
+    "splash": {
+      "image": "./src/assets/fender-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "explore-components"
+}
